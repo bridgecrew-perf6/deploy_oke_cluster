@@ -1,4 +1,4 @@
-# OCI-OKE
+# Deploy OCI-OKE-CLuster 
 
 ## Introduction
 
@@ -17,7 +17,7 @@ and [setup guide](https://www.terraform.io/docs/providers/oci/guides/version-3-u
 ## Deploy Using Oracle Resource Manager
 
 
-1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/chiphwang1/flask_demo/archive/refs/tags/v26.zip)
+1. Click [![Deploy to Oracle Cloud](https://oci-resourcemanager-plugin.plugins.oci.oraclecloud.com/latest/deploy-to-oracle-cloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?region=home&zipUrl=https://github.com/chiphwang1/deploy_oke_cluster/archive/refs/tags/v1.zip)
 
 
 ## Deploy Using the Terraform CLI
